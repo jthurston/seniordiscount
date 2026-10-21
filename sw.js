@@ -1,8 +1,9 @@
-const CACHE_NAME = "senior-discounts-v1";
+const CACHE_NAME = "senior-discounts-v2";
 
 const APP_FILES = [
     "./",
     "./index.html",
+    "./discounts.json",
     "./manifest.json",
     "./icon-192.png",
     "./icon-512.png"
